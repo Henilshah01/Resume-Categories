@@ -1,2 +1,2 @@
 # Resume-Categories
-Author-Henil Shah
+Author - Henil Shah
