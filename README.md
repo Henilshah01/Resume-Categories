@@ -1,4 +1,4 @@
 # Resume-Categories
-Resume Screening with Python
+Resume Screening App
 <br>
 Author - Henil Shah
